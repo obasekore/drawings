@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T07:47:16.323Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="VHjh9REP1Oest54CLu4t" version="24.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T07:54:54.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="oxzV5eLnPXD1YQ7XSxPp" version="24.0.8" type="github">
   <diagram name="Page-1" id="U4v0dexcv987vxjrvJ0X">
     <mxGraphModel dx="933" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="-gne7ImTe5lUnKf6LIed-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="-gne7ImTe5lUnKf6LIed-3" target="-gne7ImTe5lUnKf6LIed-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-gne7ImTe5lUnKf6LIed-3" value="Integral&lt;div&gt;()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="-gne7ImTe5lUnKf6LIed-3" value="Integral&lt;div&gt;(∫)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="260" y="205" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-gne7ImTe5lUnKf6LIed-4" value="K&lt;sub style=&quot;font-size: 18px;&quot;&gt;I&amp;nbsp; &amp;nbsp;&lt;/sub&gt;" style="triangle;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;rounded=1;align=center;strokeWidth=4;" vertex="1" parent="1">
@@ -34,7 +34,7 @@
         <mxCell id="-gne7ImTe5lUnKf6LIed-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" source="-gne7ImTe5lUnKf6LIed-8" target="-gne7ImTe5lUnKf6LIed-9" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-gne7ImTe5lUnKf6LIed-8" value="Differential&lt;div style=&quot;font-size: 16px;&quot;&gt;()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="-gne7ImTe5lUnKf6LIed-8" value="Differential&lt;div style=&quot;font-size: 16px;&quot;&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;de/&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dt&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="260" y="380" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-gne7ImTe5lUnKf6LIed-9" value="K&lt;sub style=&quot;font-size: 18px;&quot;&gt;D&lt;/sub&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;" style="triangle;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;rounded=1;strokeWidth=4;" vertex="1" parent="1">
@@ -87,8 +87,8 @@
         <mxCell id="-gne7ImTe5lUnKf6LIed-26" value="Measured&lt;div&gt;Value (MV)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="55" y="395" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-gne7ImTe5lUnKf6LIed-27" value="error (e)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="255" y="287" width="90" height="40" as="geometry" />
+        <mxCell id="-gne7ImTe5lUnKf6LIed-27" value="error&amp;nbsp;&lt;div&gt;(e)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="265" y="290" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
